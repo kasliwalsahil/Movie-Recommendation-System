@@ -1,4 +1,4 @@
-#we will using streamlit for deploying
+#we will use streamlit for deploying
 import pandas as pd
 import streamlit as st
 import pickle
